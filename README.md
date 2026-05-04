@@ -93,7 +93,7 @@ The script expects `data/data.csv` in the project root. The committed file conta
 
 ### 3. Run the analysis
 
-From the `7AAVDM27-analysis/` directory:
+From the `7AAVDM59-analysis/` directory:
 
 ```bash
 Rscript analysis.R
