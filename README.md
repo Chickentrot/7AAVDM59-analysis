@@ -1,6 +1,6 @@
-# 7AAVDM27 – Social Media Travel Content & Beach Destination Intention
+# 7AAVDM59 – Social Media Travel Content & Beach Destination Intention
 
-**Module:** 7AAVDM27 Quantitative Research Methods — KCL MSc Digital Economy
+**Module:** 7AAVDM59 Data Collection and Analysis — KCL MSc Digital Economy
 
 ---
 
@@ -31,15 +31,15 @@ H1–H3 are directional (positive association predicted from prior literature). 
 
 | Variable | Item | Scale | Notes |
 |----------|------|-------|-------|
-| Q1 | How often do you view beach destination content on social media? | 1=Never, 2=Rarely, 3=Sometimes, 4=Often, 5=Very often / Always | Ordinal frequency; SMuse composite |
-| Q2 | I actively engage with travel content on social media | 1–5 | SMuse composite |
-| Q3 | I frequently see social media travel content about beach destinations | 1–5 | SMuse composite |
-| Q4 | I follow travel influencers or travel-related accounts | 1–5 | SMuse composite |
-| Q5 | Social media travel content increases my interest in travelling to beach destinations | 1–5 | TravelIntent |
-| Q6 | Social media travel content increases my desire to travel to beach destinations | 1–5 | TravelIntent |
-| Q7 | I am likely to visit a beach destination I see on social media | 1–5 | TravelIntent |
-| Q8 | I would consider booking a beach trip based on social media content | 1–5 | TravelIntent |
-| Q9 | Social media content makes beach destinations seem more appealing | 1–5 | TravelIntent |
+| Q1 | How often do you view beach destination-related content on social media? | 1=Never, 2=Rarely, 3=Sometimes, 4=Often, 5=Always | Ordinal frequency; SMuse composite |
+| Q2 | I actively engage with beach destination content (e.g., liking, commenting, sharing posts) | 1–5 | SMuse composite |
+| Q3 | I frequently see beach destination content on social media | 1–5 | SMuse composite |
+| Q4 | I follow influencers or accounts that post beach destination content | 1–5 | SMuse composite |
+| Q5 | Viewing beach destination content on social media increases my interest in visiting such destinations | 1–5 | TravelIntent |
+| Q6 | Viewing beach destination content on social media increases my desire to travel to such destinations | 1–5 | TravelIntent |
+| Q7 | I would consider visiting a beach destination that I have seen on social media | 1–5 | TravelIntent |
+| Q8 | I would actively plan or book a beach trip based on content I see on social media | 1–5 | TravelIntent |
+| Q9 | Social media plays an important role in my final decision when choosing a beach destination | 1–5 | TravelIntent |
 | Q10 | I see myself as someone who has an active imagination | 1–5 | Openness — normal scoring |
 | Q11 | I see myself as someone who has few artistic interests | 1–5 | Openness — **REVERSE SCORED** (Q11_r = 6 − Q11) |
 | Q12 | I see myself as someone who is outgoing, sociable | 1–5 | Extraversion — normal scoring |
@@ -56,7 +56,7 @@ H1–H3 are directional (positive association predicted from prior literature). 
 | Variable | Item | Categories |
 |----------|------|------------|
 | Q20 | Age | 1=18–20, 2=21–23, 3=24–26, 4=27–29, 5=30+ |
-| Q21 | Gender | 1=Male, 2=Female, 3=Prefer not to say |
+| Q21 | Gender (optional) | 1=Male, 2=Female, 3=Prefer not to say. *Form also offered Non-binary; recoded as NA (1 respondent).* |
 | Q22 | Occupation (first selection if multi-select) | 1=Student, 2=Full-time employed, 3=Part-time employed, 4=Freelancer/self-employed, 5=Unemployed, 6=Prefer not to say |
 | Q23 | Travel frequency (leisure trips per year) | 1=Never, 2=1–2 times, 3=3–5 times, 4=6 or more |
 | Q24 | Have you ever visited a beach destination influenced by content you saw on social media? | 1=Yes, 2=No |
@@ -73,7 +73,7 @@ H1–H3 are directional (positive association predicted from prior literature). 
 | **Conscientiousness** | Q16, Q17_r | 2 |
 | **Neuroticism** | Q18, Q19_r | 2 |
 
-> Note: 2-item composites are common in short BFI measures but may produce lower Cronbach's α. Values below 0.70 should be interpreted with caution.
+> Note: 2-item composites are common in short BFI measures but may produce lower reliability. For these scales, Spearman-Brown is reported instead of Cronbach's α (see *Analysis Decisions* below). Values below 0.70 should be interpreted with caution.
 
 ---
 

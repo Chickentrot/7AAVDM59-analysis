@@ -1,5 +1,5 @@
 # ============================================================
-#  7AAVDM27 Quantitative Research Analysis
+#  7AAVDM59 Data Collection and Analysis
 #  Social Media Travel Content & Beach Destination Intention
 #  KCL MSc Digital Economy
 # ============================================================
