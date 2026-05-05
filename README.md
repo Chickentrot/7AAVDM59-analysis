@@ -4,24 +4,16 @@
 
 ---
 
-## Research Question
+## Hypothesis and Research Question
 
-Is self-reported consumption of social media travel content about beach destinations associated with young people's intention to visit those destinations, and does personality (openness, extraversion, agreeableness, conscientiousness, neuroticism) predict travel intention?
+The study tests one directional hypothesis and one measurement-oriented research question:
 
----
+| # | Statement | Type |
+|---|-----------|------|
+| H1 | Higher self-reported consumption of social media beach content is positively associated with stronger intentions to visit beach destinations | Directional (positive) |
+| RQ2 | Are any of the five Big Five personality traits (Openness, Extraversion, Agreeableness, Conscientiousness, Neuroticism) associated with beach travel intentions in this sample? | Exploratory (two-tailed) |
 
-## Hypotheses
-
-H1–H3 are directional (positive association predicted from prior literature). H4–H6 are exploratory two-tailed tests — no strong directional prior exists in the travel-personality literature for these traits.
-
-| # | Hypothesis | Type |
-|---|------------|------|
-| H1 | Higher social media travel content consumption is positively correlated with intention to visit beach destinations | Directional (positive) |
-| H2 | Higher openness to experience is positively correlated with intention to visit beach destinations | Directional (positive) |
-| H3 | Higher extraversion is positively correlated with intention to visit beach destinations | Directional (positive) |
-| H4 | Agreeableness is associated with intention to visit beach destinations | Exploratory (two-tailed) |
-| H5 | Conscientiousness is associated with intention to visit beach destinations | Exploratory (two-tailed) |
-| H6 | Neuroticism is associated with intention to visit beach destinations | Exploratory (two-tailed) |
+> Note on script labels: `analysis.R` and `outputs/hypothesis_results.csv` use the labels H1–H6 internally, where H1 corresponds to the hypothesis above and H2–H6 are the five exploratory tests bundled under RQ2 (one per Big Five trait).
 
 ---
 
