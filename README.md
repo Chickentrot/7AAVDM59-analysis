@@ -40,7 +40,7 @@ The study tests one directional hypothesis and one measurement-oriented research
 | Q15 | I see myself as someone who tends to find fault with others | 1–5 | Agreeableness — **REVERSE SCORED** (Q15_r = 6 − Q15) |
 | Q16 | I see myself as someone who does a thorough job | 1–5 | Conscientiousness — normal scoring |
 | Q17 | I see myself as someone who tends to be lazy | 1–5 | Conscientiousness — **REVERSE SCORED** (Q17_r = 6 − Q17) |
-| Q18 | I see myself as someone who worries a lot | 1–5 | Neuroticism — normal scoring |
+| Q18 | I see myself as someone who gets nervous easily | 1–5 | Neuroticism — normal scoring |
 | Q19 | I see myself as someone who is relaxed and handles stress well | 1–5 | Neuroticism — **REVERSE SCORED** (Q19_r = 6 − Q19) |
 
 ### Demographic items
